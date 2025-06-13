@@ -53,7 +53,7 @@ $(document).ready(function() {
         },
         github: {
             org: 'casjaysdev',
-            repo: 'status.casjaysdev.pro'
+            repo: 'uptime.servicestat.us'
         }
     };
 
